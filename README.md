@@ -1,6 +1,6 @@
 # Komputer Grafik Visualisasi (Lab)
 #### Tugas Mata Praktikum Komputer Grafik dan Visualisasi Lab 2
-#### Dosen Pengampu: T. Henny Febriana Harumy, S.Kom., M.Kom.
+#### Asisten Laboratorium: Annisa Mukhri
 #### Tahun Ajaran: Genap 2020/2021
 #### Ilmu Komputer - Universitas Sumatera Utara
 
